@@ -1,0 +1,13 @@
+LC-EBG website export
+
+Open index.html to view the website.
+For hosting, upload the contents of this folder to any static web host.
+Keep the assets folder beside index.html, styles.css, and script.js.
+No build step or dependencies are required.
+
+Includes the manuscript PDF, all seven result figures, the overview diagram,
+and the favicon. Links to author profiles and GitHub require internet access.
+Google Fonts are optional; local font fallbacks work offline.
+
+Local preview: run python3 -m http.server 8000 from this folder, then open
+http://localhost:8000 in your browser.

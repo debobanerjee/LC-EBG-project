@@ -12,3 +12,12 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#Icon files
+Icon?
+
+# Finder metadata
+._*
