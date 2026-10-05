@@ -11,3 +11,6 @@ Google Fonts are optional; local font fallbacks work offline.
 
 Local preview: run python3 -m http.server 8000 from this folder, then open
 http://localhost:8000 in your browser.
+
+Exported on 2026-10-06 with the corrected 13-model study count
+(10 proprietary + 3 open-weight) and clarified NoLiMa subset descriptions.

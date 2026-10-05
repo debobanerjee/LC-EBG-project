@@ -14,6 +14,7 @@ Copy this directory's contents to the root of a website repository. Enable GitHu
 
 - Text, author order, affiliations, and results are from the LC_EBG_ArXiv Overleaf manuscript exported on 2026-10-05.
 - `assets/paper.pdf` is that export. Replace it when the paper changes.
+- Website model counts were verified against the live LC-EBG_ArXiv Experimental Setup on 2026-10-06: 13 LLMs in total, comprising 10 proprietary and 3 open-weight models. The overview and website abstract use this total; the NoLiMa plots cover the 8 proprietary + 3 open-weight subset.
 - The seven result plot PNGs were rendered from the manuscript's original PDF figures.
 - The overview uses the latest supplied `EBG_overview.png`, preserving its aspect ratio. The diagram and illustrative example explain the task; they are not experimental results.
 - On desktop, the title, overview figure, and study data cards occupy the opening viewport. Key Contributions follows as a separate section; smaller screens use a flowing layout.
